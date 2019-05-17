@@ -159,6 +159,15 @@
   <ItemGroup>
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\jQuery.Gritter\css\jquery.gritter.css" />
+    <Content Include="Content\jQuery.Gritter\images\gritter-light.png" />
+    <Content Include="Content\jQuery.Gritter\images\gritter-long.png" />
+    <Content Include="Content\jQuery.Gritter\images\gritter.png" />
+    <Content Include="Content\jQuery.Gritter\images\ie-spacer.gif" />
+    <Content Include="Content\jQuery.Gritter\images\trees.jpg" />
+    <Content Include="Content\jQuery.Gritter\index.html" />
+    <Content Include="Content\jQuery.Gritter\js\jquery.gritter.js" />
+    <Content Include="Content\jQuery.Gritter\js\jquery.gritter.min.js" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -168,6 +177,8 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="Content\jQuery.Gritter\package.json" />
+    <Content Include="Content\jQuery.Gritter\README.markdown" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
